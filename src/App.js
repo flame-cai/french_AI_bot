@@ -113,7 +113,7 @@ function App() {
       {isSidebarOpen && (
         <>
             <div className="logo my-3">
-              <img src="flame_img.jpeg" alt="FLAME Logo" className="img-fluid" />
+              <img src="logo_512.jpeg" alt="FLAME Logo" className="img-fluid" />
             </div>
             <hr className="w-75" />
             <ul className="nav flex-column w-100 text-center">
